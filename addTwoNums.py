@@ -1,4 +1,4 @@
-# Add Two Numbers in Python
+Version 3 of addTwoNums# Add Two Numbers in Python
 # Author: CHEN Feijie
 # Using user input
 a = input ("First Number:")
